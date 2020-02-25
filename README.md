@@ -6,10 +6,10 @@ The goal of this course is to share programming knowledge and practical skills. 
 This course will prepare you to write "research code": you will be able to open Python, ingest data, wrangle and query the data, analyze it to answer specific questions, and share those answers with others. I hope that through this course it will become clear how Python can be used to make many routine data analysis tasks easier--leaving you with time to do other things, like lift weights.
 
 # Course Outline
-Part 0: Course Objectives, Why Python?
-Part I: Installation, Opening Notebooks, and the Data Analysis Pipeline
-Part II: Python Primer with Jupyter Notebooks
-Part III: Ingestion and Data Sources
-Part IV: Wrangling Data
-Part V: Analysis & Visualizations
-Part VI: Output
+Part 0: Course Objectives, Why Python?  
+Part I: Installation, Opening Notebooks, and the Data Analysis Pipeline  
+Part II: Python Primer with Jupyter Notebooks  
+Part III: Ingestion and Data Sources  
+Part IV: Wrangling Data  
+Part V: Analysis & Visualizations  
+Part VI: Output  
