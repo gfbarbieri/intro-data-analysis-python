@@ -14,7 +14,7 @@ Part V: Analysis & Visualizations
 Part VI: Output and Sharing  
 
 ## Course Prerequisites: Installing Python with Anaconda
-The course will work exclusive with Python 3 in Jupyter Notebooks, which can all be very easily downloaded from Anaconda. If you are a novice, and *especially for Windows users*, follow the steps below to get started with Python. Do not deviate from them or get hung up by the internet's many discussions on how install Python--just trust me on this.
+The course will work exclusive with Python 3 in Jupyter Notebooks, which can all be very easily downloaded from Anaconda. If you are a novice, and *especially for Windows users*, follow the steps below to get started with Python. Do not deviate from them or get hung up by the internet's many discussions on how install Python--trust me on this.
 
 Anaconda is simply a company that publishes software that ships with a distribution of Python 3, Jupyter Notebook, and many other useful management tools.
 
