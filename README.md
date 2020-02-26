@@ -1,7 +1,7 @@
 # Introduction to Data Analysis with Python
 
 ## Course Objectives
-The goal of this short-course is to share programming knowledge and practical skills. The topics and problems covered are directly related to work I do as a data analyst. By the end of the course, you should be able to **open Python** and Jupyter Notebooks; **ingest data** from various sources, including Excel files, CSV, PDF, HTML, and Zip files; **wrangle data** using Python Pandas library as well as core built-in libraries; perform summary **analysis** and **visualizations**.
+The goal of this short-course is to share programming knowledge and practical skills. The topics and problems covered are directly related to work I do as a data analyst. By the end of the course, you should be able to **open Python** and Jupyter Notebooks; **ingest data** from various sources, including Excel files, CSV, PDF, HTML, and Zip files, and relational databases; **wrangle data** using Python Pandas library as well as core built-in libraries; perform summary **analysis** and **visualizations**.
 
 This course is designed for Python novices, but not necessarily novices in data analysis. The course will give you the Python skills to write "research code": opening the software, writing code to ingest/wrangle/query data to answer specific questions. I hope that through this course it will become clear how Python can be used to make many routine data analysis tasks easier--leaving you with time to do other things, like lift weights.
 
