@@ -8,7 +8,7 @@ This course is designed for Python novices, but not necessarily novices in data 
 ## Course Outline
 Part I: Opening Notebooks, and the Data Analysis Pipeline  
 Part II: Python Primer with Jupyter Notebooks  
-Part III: Ingestion and Data Sources  
+Part III: Ingestion and Data Formats  
 Part IV: Wrangling Data  
 Part V: Analysis & Visualizations  
 Part VI: Output and Sharing  
