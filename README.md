@@ -28,7 +28,7 @@ Step 4: Type "python" and hit enter. If you installed Python/Anaconda appropriat
 
 **You're good to go!**
 
-## _My Pledge to You_
-Python is a fighter jet when most of the time we want a hand-glider--making it an overwhelming tool to begin with. The biggest hurdle to using Python fluidly is that you _must know a little bit about how your computer works_, something those who design programs your computer work tirelessly to help you avoid.
+### _My Pledge to You_
+Python is a fighter jet when most of the time we want a hand-glider, making it an overwhelming tool to begin with. The biggest hurdle to using Python fluidly is that you _must know a little bit about how your computer works_, something those who design programs for your computer work tirelessly to help you avoid.
 
-With that said, I will at times deliberately exchange thoroughness for practicality and decisiveness that may offend an advanced user. However, _I promise to never lie to you_ and that _you will not need to unlearn what I show you through this course_. Yes, you will always need to learn new tools or new ways to perform a familiar task. Python is a gigantic ecosystem, but I won't let a scary forest stop us from setting up a small camp among the trees.
+With that said, I will at times deliberately exchange thoroughness for practicality and decisiveness, which may offend an advanced user. However, _I promise to never lie to you_ and that _you will not need to unlearn what I show you through this course_. Yes, you will always need to learn new tools or new ways to perform a familiar task. Python is a gigantic ecosystem, but I won't let a scary forest stop us from setting up a small camp among the trees.
