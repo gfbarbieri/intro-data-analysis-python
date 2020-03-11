@@ -1,9 +1,9 @@
 # Introduction to Data Analysis with Python
 
 ## Course Objectives
-The goal of this short-course is to share programming knowledge and practical skills. The topics and problems covered are directly related to work I do as a data analyst. By the end of the course, you should be able to **open Python** and Jupyter Notebooks; **ingest data** from various sources, including Excel files, CSV, PDF, HTML, and Zip files, and relational databases; **wrangle data** using Python Pandas library as well as core built-in libraries; perform summary **analysis** and **visualizations**.
+The goal of this short-course is to share programming knowledge and practical skills. The topics and problems covered are directly related to work I do as a data analyst. By the end of the course, you should be able to **open Python** and Jupyter Notebooks; **ingest data** from common formats such as Excel and CSV files, and relational databases, as well as cover more advanced techniques for data stored in PDFs, HTML, or Zip files; **wrangle data** using Python Pandas library as well as core built-in libraries; perform summary **analysis** and **visualizations**.
 
-This course is designed for Python novices, but not necessarily novices in data analysis. The course will give you the Python skills to write "research code": opening the software, writing code to ingest/wrangle/query data to answer specific questions. I hope that through this course it will become clear how Python can be used to make many routine data analysis tasks easier--leaving you with time to do other things, like lift weights.
+This course is designed for Python novices, but not necessarily novices in data analysis. The course will give you the Python skills to write "research code", not build software products--you are trying to prove a point or answer a question, not build software. I hope that through this course it will become clear how Python can be used to make many routine data analysis tasks easier--leaving you with time to do other things, like lift weights.
 
 ## Course Outline
 Part I: Opening Notebooks, and the Data Analysis Pipeline  
@@ -27,3 +27,8 @@ Step 3: After the installation is complete, search for and run the "Anaconda Pro
 Step 4: Type "python" and hit enter. If you installed Python/Anaconda appropriately, it should list the Python version (3.7.3), as well as some ancillary information. If you see a line with ">>>", great, and if you're feeling ambitious, type "2 + 2" and press enter.
 
 **You're good to go!**
+
+## _My Pledge to You_
+Python is a fighter jet when most of the time we want a hand-glider--making it an overwhelming tool to begin with. The biggest hurdle to using Python fluidly is that you _must know a little bit about how your computer works_, something those who design programs your computer work tirelessly to help you avoid.
+
+With that said, I will at times deliberately exchange thoroughness for practicality and decisiveness that may offend an advanced user. However, _I promise to never lie to you_ and that _you will not need to unlearn what I show you through this course_. Yes, you will always need to learn new tools or new ways to perform a familiar task. Python is a gigantic ecosystem, but I won't let a scary forest stop us from setting up a small camp among the trees.
