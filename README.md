@@ -22,13 +22,13 @@ Step 1: [Download Anaconda](https://www.anaconda.com/distribution/#download-sect
 
 Step 2: Follow the installation guidelines, all of the default settings should not be a problem--you should not have to change any thing during the installation process.
 
-Step 3: After the installation is complete, search for and run the "Anaconda Prompt". This is a replacement to your computer's normal command prompt--don't let the black box with a blinking cursor intimidate you.
+Step 3: After the installation is complete, search for and run the "Anaconda Prompt" (something similar is installed for MacOS). This is a replacement to your computer's normal command prompt (or shell)--don't let the black box with a blinking cursor intimidate you.
 
-Step 4: Type "python" and hit enter. If you installed Python/Anaconda appropriately, it should list the Python version (3.7.3), as well as some ancillary information. If you see a line with ">>>", great, and if you're feeling ambitious, type "2 + 2" and press enter.
+Step 4: Type "python" and hit enter. If you installed Python/Anaconda appropriately, it should list the Python version (3.7.3), as well as some ancillary information. If you see a line with ">>>", that's wonderful. If you're feeling ambitious, then type "2 + 2" and press enter.
 
 **You're good to go!**
 
 ### _My Pledge to You_
-Python is a fighter jet when most of the time we want a hand-glider, making it an overwhelming tool to begin with. The biggest hurdle to using Python fluidly is that you _must know a little bit about how your computer works_, something those who design programs for your computer work tirelessly to help you avoid.
+Python is a fighter jet when most of the time we want a hand-glider, making it an overwhelming tool to begin with. The biggest hurdle to using Python fluidly is that you _must know a little bit about how your computer works_, something those who design programs for your computer have worked tirelessly to help you avoid.
 
 With that said, I will at times deliberately exchange thoroughness for practicality and decisiveness, which may offend an advanced user. However, _I promise to never lie to you_ and that _you will not need to unlearn what I show you through this course_. Yes, you will always need to learn new tools or new ways to perform a familiar task. Python is a gigantic ecosystem, but I won't let a scary forest stop us from setting up a small camp among the trees.
